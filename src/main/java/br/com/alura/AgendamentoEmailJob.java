@@ -13,8 +13,6 @@ import javax.jms.Queue;
 import br.com.alura.entidade.AgendamentoEmail;
 import br.com.alura.servico.AgendamentoEmailServico;
 
-
-
 @Singleton
 public class AgendamentoEmailJob {
 		
